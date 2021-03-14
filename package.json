@@ -1,9 +1,9 @@
 {
-	"name": "hyper.db",
-	"version": "1.0.0",
+	"name": "nerperbase",
+	"version": "1.0.1",
 	"description": "An hyper quick db that uses JSON as base.",
 	"main": "index.js",
-	"repository": "https://github.com/angrymouse/hyper.db",
+	"repository": "https://github.com/angrymouse/nerperbase",
 	"author": "Angrymouse <micevx@gmail.com>",
 	"license": "MIT"
 }
